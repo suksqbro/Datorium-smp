@@ -12,7 +12,7 @@
  CosmeticCoin is used to purchase cosmetic items or ranks:
  ***Ranks:***
   Cosmetic ranks like "MVP" that offer unique chat colors, titles, or special visual effects in certain server areas. Use a permission management plugin like "LuckPerms" to handle these ranks.
- ***Cosmetic Items: ***
+ ***Cosmetic Items:***
  Could include custom skins, capes, or other non-gameplay affecting items. Ensure these are managed through a cosmetic shop plugin or custom commands.
  
  ## 3. ServerCoin
