@@ -31,8 +31,7 @@
  plaintext
  ```/settings currency display ServerCoin/CosmeticCoin [on/off]```
  This command should interact with the player's profile settings to hide or show the currency display.
- __***Also about the currencies name is only temporally.*** __
-
+ ***Also about the currencies name is only temporally.*** 
 
 # 2. HOW WILL BOTCOIN INTEGRATION OPERATE
 
